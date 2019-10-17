@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974941657780",
+    "firebase_url": "https://simple-login-system.firebaseio.com",
+    "project_id": "simple-login-system",
+    "storage_bucket": "simple-login-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974941657780:android:527f1bdf3c2d11222095e1",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974941657780-vdmtg24suc1vhsp1ukiqnrstd346djo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk1fhFQJm2tUvdR7x6EtCMJh10nufVF6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974941657780-vdmtg24suc1vhsp1ukiqnrstd346djo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
